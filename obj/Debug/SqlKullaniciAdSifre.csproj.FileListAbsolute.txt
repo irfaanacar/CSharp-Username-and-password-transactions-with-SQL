@@ -1,0 +1,11 @@
+C:\Users\irfaa\OneDrive\Masaüstü\C#\SqlKullaniciAdSifre\bin\Debug\SqlKullaniciAdSifre.exe.config
+C:\Users\irfaa\OneDrive\Masaüstü\C#\SqlKullaniciAdSifre\bin\Debug\SqlKullaniciAdSifre.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\SqlKullaniciAdSifre\bin\Debug\SqlKullaniciAdSifre.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C#\SqlKullaniciAdSifre\obj\Debug\SqlKullaniciAdSifre.csproj.AssemblyReference.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\SqlKullaniciAdSifre\obj\Debug\SqlKullaniciAdSifre.Form1.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\SqlKullaniciAdSifre\obj\Debug\SqlKullaniciAdSifre.Properties.Resources.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\SqlKullaniciAdSifre\obj\Debug\SqlKullaniciAdSifre.csproj.GenerateResource.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\SqlKullaniciAdSifre\obj\Debug\SqlKullaniciAdSifre.csproj.CoreCompileInputs.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\SqlKullaniciAdSifre\obj\Debug\SqlKullaniciAdSifre.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\SqlKullaniciAdSifre\obj\Debug\SqlKullaniciAdSifre.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C#\SqlKullaniciAdSifre\obj\Debug\SqlKullaniciAdSifre.frmsifremiunuttum.resources
